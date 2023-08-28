@@ -1,0 +1,6 @@
+venv
+venv/
+logs
+logs/
+*egg-info
+.vscode
