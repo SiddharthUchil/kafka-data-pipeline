@@ -1,6 +1,8 @@
 # kafka-data-pipeline
 The project is about designing a data ingestion pipeline using Kafka. I have used Kafka topics managed on Confluent Cloud and set up a consumer and producer for the sensor data.
 
+https://www.scania.com/group/en/home/products-and-services/services/data-driven-services.html
+
 ![sensor](https://github.com/SiddharthUchil/kafka-data-pipeline/assets/36127139/eb2b1b6e-4c70-4bb0-808c-dd645b4933a1)
 
 # Project Summary
